@@ -1,0 +1,9 @@
+@import "~bulma/bulma.sass";
+
+
+$steps-completed-color: $info;
+$steps-active-color: $info;
+$steps-vertical-min-height: 6em;
+
+@import "~bulma-steps-component/bulma-steps.sass";
+@import "~bulma-slider/src/sass/index.sass";
